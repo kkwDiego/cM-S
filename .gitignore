@@ -1,0 +1,8 @@
+
+*.png
+
+*.webp
+
+data/fog.db
+
+data/users.db

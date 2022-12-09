@@ -1,0 +1,25 @@
+{
+  "title": "cM&S v10",
+  "id": "cmands-v10",
+  "system": "pf2e",
+  "description": "<p></p>",
+  "coreVersion": "10.290",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.290"
+  },
+  "systemVersion": "4.4.2",
+  "background": "Galeria/Imagens/anato-finnstark-de6ejiv-a8f64a29-1a4f-4668-b15b-052e41ce26ac-copie.jpg",
+  "safeMode": false,
+  "packs": [
+    {
+      "label": "Coroas de Mortalha e Sangue",
+      "type": "JournalEntry",
+      "name": "coroas-de-mortalha-e-sangue",
+      "path": "packs/coroas-de-mortalha-e-sangue.db",
+      "system": "pf2e",
+      "private": false,
+      "flags": {}
+    }
+  ]
+}
